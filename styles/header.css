@@ -1,0 +1,12 @@
+.cabecalho{
+    background-color: green;
+    margin: 0;
+}
+
+.container{
+    display: flex; align-items: center;
+}
+
+.container__imagem {
+    width: 45px; height: 45px;
+}
